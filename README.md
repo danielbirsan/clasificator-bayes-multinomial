@@ -19,8 +19,8 @@ Pentru a rula și explora codul în detaliu, accesați notebook-ul Google Colab 
 
   ## Autori
 
-- [Grigorașcu Andrei Antonio](https://github.com/andreigrigorascu)
-- [Bîrsan Gheorghe-Daniel](https://github.com/gheorghedanielbirsan)
+- [Grigorașcu Andrei Antonio](https://github.com/antonio-grigorascu)
+- [Bîrsan Gheorghe-Daniel](https://github.com/danielbirsan)
 - [Șerbănescu George Florin](https://github.com/georgeflorinserbanescu)
 
 Acest proiect a fost realizat ca temă pentru cursul de **Probabilitate și Statistică**.
