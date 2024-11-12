@@ -11,11 +11,6 @@ Algoritmul presupune independența condiționată între cuvintele textului și 
 Pentru a rula și explora codul în detaliu, accesați notebook-ul Google Colab disponibil la acest [link](https://colab.research.google.com/drive/1UfupdYcH8Zcw2O5Sb-_yzcTkoMUz2cuj?usp=sharing). Notebook-ul Colab oferă o experiență interactivă de rulare a codului, cu accelerare GPU recomandată pentru a îmbunătăți viteza de procesare.
 
 
-## Autori
-
-- [Grigorașcu Andrei Antonio](https://github.com/antoniogrigorascu)
-- [Bîrsan Gheorghe-Daniel](https://github.com/danielbirsan)
-- [Șerbănescu George Florin](https://github.com/georgeflorinserban)
 
   ## Autori
 
